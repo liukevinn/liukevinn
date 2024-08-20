@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @liukevinn<br>👀 I’m interested in software enginnering, AI/ML, and Data Science<br>🌱 I’m currently learning how to create a CPU<br>💞️ I’m looking to collaborate on full stack application projects<br>📫 Reach me at my personal website: https://liukevinn.github.io/personalweb/<br>😄 Pronouns: he/him<br>⚡ Fun fact: I can yo-yo really well
+👋 Hi, I’m @liukevinn<br>👀 I’m interested in software enginnering, AI/ML, and Data Science<br>🌱 I’m currently learning how to create a CPU<br>💞️ I’m looking to collaborate on full stack application projects<br>😄 Pronouns: he/him<br>⚡ Fun fact: I can yo-yo really well
 
 
 ## 🌐 Socials:
